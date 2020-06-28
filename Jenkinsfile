@@ -7,11 +7,5 @@ pipeline {
       }
     }
 
-    stage('cool') {
-      steps {
-        sh 'this is cool'
-      }
-    }
-
   }
 }
